@@ -1,0 +1,4 @@
+myapp:
+  fixedTimeRate: 1000
+  fixedTimeWithDelay: 1000
+  fixedInitialDelay: 1000
